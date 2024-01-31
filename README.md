@@ -1,2 +1,2 @@
-# conic-v2-snapshots
+# Conic V2 Snapshots
 Snapshot data for Conic V2
